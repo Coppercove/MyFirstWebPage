@@ -33,7 +33,7 @@ This was my very first HTML/CSS webpage I ever built.
 	 </style>
 
 </head>
-<a href="project_pg2.htm">Link To My Second Page</a>
+<a href="project_pg2.htm">Link To My 2nd Page</a>
 <body>
 	<a name="top"></a>
 	
